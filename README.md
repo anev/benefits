@@ -31,8 +31,8 @@
   * out-of-pocket - эта сумма ограничивает ваши платежи, это максисум который вы заплатите за год из своего кармана, если будете лечиться в сети, конечно.
 
 #### Dental Insurance
-#### Flexible Spending Account (FSA)
 #### Vision Insurance
+#### Flexible Spending Account (FSA)
 #### Health Savings Account (HSA)
 #### Life Insurance
 #### Supplemental Life Insurance
@@ -95,6 +95,8 @@
  * Работа из дома - весьма полезный бенефит, кроме экономии времени, в некоторых случаях вы можете съэкономить на налогах.
 
 #### Fertility Assistance
+ * Все более популярным бенефитом становится помощь (оплата) заморозки яйцеклетки.
+
 #### Dependent Care
 #### Adoption Assistance
 #### Childcare
@@ -103,9 +105,16 @@
 #### Family Medical Leave
 #### Unpaid Extended Leave
 #### Vacation & Time Off
-#### Vacation & Paid Time Off 
+ * Длительность отпуска, количество праздничных дней отличается от компании к компании.
+ * Нормой считается 10-20 дней отпуска в год (не включая выходные, то есть 5 дней отпуска это неделя
+ * В редких компаниях предоставляют unlimited vacation, то есть длительность строго не ограничена.
+
 #### Sick Days
+ * Больные дни, обычно около пяти дней в году. Вы можете не выйти на работу, если чувствуете себя не важно.
+
 #### Paid Holidays
+ * Обычно оплачивают до 10 праздничных дней, перечень определяется до начала года.
+
 #### Volunteer Time Off
 #### Sabbatical
  * Sabbatical это что-то вроде отпуска за выслугу лет.
@@ -115,12 +124,18 @@
 #### Bereavement Leave
 
 ## Льготы и скидки
+
 #### Employee Discount 
 #### Free Lunch or Snacks 
+ * Иногда снеки и ланчи в офисе очень качественные, здоровые. Вполне можно наедать на несколько тысяч долларов в год.
+ * Кроме прочего во многих кампаниях бредоставляют unlimited алкоголь в офисах.
+
 #### Employee Assistance Program
 #### Gym Membership
 #### Commuter Checks & Assistance
 #### Pet Friendly Workplace
+ * Это совсем не страшный бенефит, американские собаки очень приятные, спокойные и совсем не страшные.
+
 #### Mobile Phone Discount
 #### Company Car
 #### Company Social Events
